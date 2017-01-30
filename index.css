@@ -109,7 +109,7 @@ nav .example #nav{
     display:inline-block;
     width:71%;
     margin:7px auto 7px auto;
-    margin-left: 107px;
+    
     padding:0;
     background:#335599 ;
 
@@ -224,7 +224,7 @@ nav .example #nav{
 
 .rules{
     margin: 13px auto 96px auto;
-    width: 34%;
+    width: 735px;
    
 }
 .rules img {
